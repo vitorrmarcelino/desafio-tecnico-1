@@ -26,7 +26,7 @@
 Insira um número inteiro positivo: 10
 O número obtido a partir de 10 é 23
 Deseja inserir outro número?[s/n] s
-Insira um número inteiro positivo: 20
-O número obtido a partir de 20 é 78
+Insira um número inteiro positivo: 11
+O número obtido a partir de 11 é 33
 Deseja inserir outro número?[s/n] n
 ```
