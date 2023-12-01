@@ -16,8 +16,11 @@
 ```
 
 >O programa solicitará que você insira um número inteiro positivo.
+
 >Após inserir o número, o programa calculará a soma de todos os múltiplos de 3 ou 5 menores que o número inserido.
+
 >Mostrará o resultado da soma.
+
 >O programa perguntará se você deseja inserir outro número. Responda com "s" para continuar ou "n" para sair do programa.
 
 ### Exemplo de uso:
